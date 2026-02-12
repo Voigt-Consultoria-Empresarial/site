@@ -11,9 +11,6 @@
   # Diretório de publicação (ajuste conforme necessário)
   publish = "."
 
-# Configurações de redirecionamento (opcional)
-# [[redirects]]
-#   from = "/*"
-#   to = "/index.html"
-#   status = 200
+# O Netlify automaticamente usa o arquivo 404.html quando uma página não é encontrada
+# Não é necessário configurar redirects para isso
 
